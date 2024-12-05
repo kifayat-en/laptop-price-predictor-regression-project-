@@ -1,2 +1,2 @@
 # laptop-price-predictor-regression-project
-A ML based laptop price predictor
+A ML based laptop price predictor end to end project
